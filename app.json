@@ -1,0 +1,15 @@
+{
+    "name": "vio",
+    "description": "r4xscg",
+    "logo":"dzff",
+    "keywords": ["yues"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/hy4dwchyr/kessmix
+",
+    "stack": "container"
+}
